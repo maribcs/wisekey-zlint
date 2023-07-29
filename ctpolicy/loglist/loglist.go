@@ -10,7 +10,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/letsencrypt/boulder/ctpolicy/loglist/schema"
+	"wisekey-zlint/ctpolicy/loglist/schema"
 )
 
 // purpose is the use to which a log list will be put. This type exists to allow
