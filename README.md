@@ -27,3 +27,5 @@ Configuration:
 - Determine how safe it is really to use only ZLint for SSL certificates linting and stop using any other linter. See https://groups.google.com/g/mozilla.dev.security.policy/c/RH5oRS8ZbXo
 - Determine how the log_list.json is going to be kept updated. Initially it could be updated with a cron task.
 - Consider the Apple CT policy too. Maybe with another lint (or multiple linters). Note that its effective date is different than the Google's one.
+
+# Test
