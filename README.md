@@ -29,4 +29,4 @@ Configuration:
 - Consider the Apple CT policy too. Maybe with another lint (or multiple linters). Note that its effective date is different than the Google's one.
 
 # Test
-Lorem ipsum dolor sit amet consectetur adipiscing elit lectus hendrerit porta curae feugiat, odio ridiculus fermentum eros lobortis egestas netus nisl non scelerisque
+Lorem ipsum dolor sit amet consectetur adipiscing elit lectus hendrerit porta curae feugiat, odio ridiculus fermentum eros lobortis egestas netus
